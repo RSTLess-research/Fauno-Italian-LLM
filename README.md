@@ -75,7 +75,7 @@ cd demo/ && python3 app.py decapoda-research/llama-7b-hf andreabac3/Fauno-Italia
 To use our translated dataset and model weights in your research, remember to cite our work.
 ```bibtex
 @misc{fauno,
-  author = {Andrea Bacciu, Giovanni Trappolini, Andrea Santilli, Fabrizio Silvestri},
+  author = {Andrea Bacciu, Giovanni Trappolini, Emanuele Rodolà, Andrea Santilli, Fabrizio Silvestri},
   title = {Fauno: The Italian Large Language Model that will leave you senza parole!},
   year = {2023},
   publisher = {GitHub},
