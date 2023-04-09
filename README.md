@@ -24,7 +24,10 @@ Fauno is a fine-tuned version of the LoRa weights of [Baize](https://github.com/
 
 We translated and cleaned the data of Baize, and then we fine-tuned the 7b model using a single RTX A6000 (48GB of VRAM) with 19 hours for one epoch.
 
-Fauno 13B and 30B are coming soon! 
+
+7B Model: https://huggingface.co/andreabac3/Fauno-Italian-LLM-7B
+13B Model: https://huggingface.co/andreabac3/Fauno-Italian-LLM-13B
+Fauno 30B and 60 are coming soon! 
 
 ## Datasets
 We uploaded the 4 italian datasets on HuggingFace used to train Fauno.
