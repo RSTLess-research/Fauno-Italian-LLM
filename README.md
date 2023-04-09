@@ -4,7 +4,7 @@
 Get ready to meet Fauno -  the Italian language model crafted by the [RSTLess Research Group](https://rstless-lab.netlify.app/) from the Sapienza University of Rome.
 
 
-The research team behind Fauno includes **[Andrea Bacciu](https://andreabac3.github.io/)**, Dr. [Giovanni Trappolini](https://sites.google.com/view/giovannitrappolini), Professor [Emanuele Rodolà](https://sites.google.com/site/erodola/), [Andrea Santilli](https://www.santilli.xyz/), and Professor [Fabrizio Silvestri](https://sites.google.com/diag.uniroma1.it/fabriziosilvestri/home).
+The research team behind Fauno includes **[Andrea Bacciu](https://andreabac3.github.io/)**, Dr. [Giovanni Trappolini](https://sites.google.com/view/giovannitrappolini), Professor [Emanuele Rodolà](https://gladia.di.uniroma1.it/authors/rodola/), [Andrea Santilli](https://gladia.di.uniroma1.it/authors/santilli/), and Professor [Fabrizio Silvestri](https://sites.google.com/diag.uniroma1.it/fabriziosilvestri/home).
 
 Fauno represents a cutting-edge development in open-source Italian Large Language Modeling. It's trained on extensive Italian synthetic datasets, encompassing a wide range of fields such as medical data 🩺, technical content from Stack Overflow 💻, Quora discussions 💬, and Alpaca data 🦙 translated into Italian.
 
