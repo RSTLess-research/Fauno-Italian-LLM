@@ -4,13 +4,11 @@
 Get ready to meet Fauno -  the Italian language model crafted by the [RSTLess Research Group](https://rstless-lab.netlify.app/) from the Sapienza University of Rome.
 
 
-The research team behind Fauno includes **[Andrea Bacciu](https://andreabac3.github.io/)**, Dr. [Giovanni Trappolini](https://sites.google.com/view/giovannitrappolini), Professor [Emanuele Rodolà](https://gladia.di.uniroma1.it/authors/rodola/), [Andrea Santilli](https://gladia.di.uniroma1.it/authors/santilli/), and Professor [Fabrizio Silvestri](https://sites.google.com/diag.uniroma1.it/fabriziosilvestri/home).
+The research team behind Fauno includes **[Andrea Bacciu](https://andreabac3.github.io/)**, Dr. [Giovanni Trappolini](https://sites.google.com/view/giovannitrappolini), Professor [Emanuele Rodolà](https://sites.google.com/site/erodola/), [Andrea Santilli](https://www.santilli.xyz/), and Professor [Fabrizio Silvestri](https://sites.google.com/diag.uniroma1.it/fabriziosilvestri/home).
 
 Fauno represents a cutting-edge development in open-source Italian Large Language Modeling. It's trained on extensive Italian synthetic datasets, encompassing a wide range of fields such as medical data 🩺, technical content from Stack Overflow 💻, Quora discussions 💬, and Alpaca data 🦙 translated into Italian.
 
 Hence, our model is able to answer to your questions in Italian 🙋, fix your buggy code 🐛 and understand a minimum of medical literature 💊.
-
-Compared to [Camoscio](https://github.com/teelinsan/camoscio) this model should deliver a better conversational experience like with ChatGPT.
 
 ## The 🇮🇹 open-source version of chatGPT!
 Discover the capabilities of Fauno and experience the evolution of Italian language models for yourself.

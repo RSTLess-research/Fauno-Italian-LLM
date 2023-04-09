@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # Credits -> Original script: https://github.com/project-baize/baize-chatbot/blob/main/finetune.py
-
+import os
 import argparse
 import sys
 import torch
@@ -207,3 +207,4 @@ if torch.__version__ >= "2" and sys.platform != "win32":
 trainer.train()
 
 model.save_pretrained(OUTPUT_DIR)
+model.push_to_hub("andreabac3/Fauno-Italian-LLM-{}B".format(size))
