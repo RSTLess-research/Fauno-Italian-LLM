@@ -10,6 +10,8 @@ Fauno represents a cutting-edge development in open-source Italian Large Languag
 
 Hence, our model is able to answer to your questions in Italian 🙋, fix your buggy code 🐛 and understand a minimum of medical literature 💊.
 
+Compared to [Camoscio](https://github.com/teelinsan/camoscio) this model should deliver a better conversational experience like with ChatGPT.
+
 ## The 🇮🇹 open-source version of chatGPT!
 Discover the capabilities of Fauno and experience the evolution of Italian language models for yourself.
 
