@@ -10,6 +10,8 @@ Fauno represents a cutting-edge development in open-source Italian Large Languag
 
 Hence, our model is able to answer to your questions in Italian 🙋, fix your buggy code 🐛 and understand a minimum of medical literature 💊.
 
+Compared to [Camoscio](https://github.com/teelinsan/camoscio) this model should deliver a better conversational experience like with ChatGPT, since it is trained on more data in conversational format generated with self-conversation of ChatGPT and then translated to Italian (see Datasets section and the [Blaize paper](https://arxiv.org/abs/2304.01196) for more details).
+
 ## The 🇮🇹 open-source version of chatGPT!
 Discover the capabilities of Fauno and experience the evolution of Italian language models for yourself.
 
@@ -22,7 +24,10 @@ Fauno is a fine-tuned version of the LoRa weights of [Baize](https://github.com/
 
 We translated and cleaned the data of Baize, and then we fine-tuned the 7b model using a single RTX A6000 (48GB of VRAM) with 19 hours for one epoch.
 
-Fauno 13B and 30B are coming soon! 
+
+7B Model: https://huggingface.co/andreabac3/Fauno-Italian-LLM-7B
+13B Model: https://huggingface.co/andreabac3/Fauno-Italian-LLM-13B
+Fauno 30B and 60 are coming soon! 
 
 ## Datasets
 We uploaded the 4 italian datasets on HuggingFace used to train Fauno.
