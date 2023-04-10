@@ -207,4 +207,3 @@ if torch.__version__ >= "2" and sys.platform != "win32":
 trainer.train()
 
 model.save_pretrained(OUTPUT_DIR)
-model.push_to_hub("andreabac3/Fauno-Italian-LLM-{}B".format(size))
