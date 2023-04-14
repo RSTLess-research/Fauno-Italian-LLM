@@ -8,7 +8,7 @@ The research team behind Fauno includes **[Andrea Bacciu](https://andreabac3.git
 
 Fauno represents a cutting-edge development in open-source Italian Large Language Modeling. It's trained on extensive Italian synthetic datasets, encompassing a wide range of fields such as medical data 🩺, technical content from Stack Overflow 💻, Quora discussions 💬, and Alpaca data 🦙 translated into Italian.
 
-Hence, our model is able to answer to your questions in Italian 🙋, fix your buggy code 🐛 and understand a minimum of medical literature 💊.
+Hence, our model is able to answer to your questions in Italian 🙋, fix your buggy code 🐛 and understand medical literature 💊.
 
 Compared to [Camoscio](https://github.com/teelinsan/camoscio) this model should deliver a better conversational experience like with ChatGPT, since it is trained on more data in conversational format generated with self-conversation of ChatGPT and then translated to Italian (see Datasets section and the [Blaize paper](https://arxiv.org/abs/2304.01196) for more details).
 
