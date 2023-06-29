@@ -33,7 +33,7 @@ parser.add_argument(
 )
 parser.add_argument(
     "--model_size",
-    help="LLama model size, avaiable options: 7b, 13b, 30b, 65b",
+    help="LLama model size, available options: 7b, 13b, 30b, 65b",
     type=str,
     default="7b",
 )
