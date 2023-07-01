@@ -76,7 +76,7 @@ cd demo/ && python3 app.py decapoda-research/llama-7b-hf andreabac3/Fauno-Italia
 ```
 
 # 📖 Cite our work
-We are delighted to announce that the Fauno paper has been accepted @ [IIR 2023](http://iir2023.isti.cnr.it/). 
+We are delighted to announce that the [Fauno paper](https://arxiv.org/pdf/2306.14457.pdf) has been accepted @ [IIR 2023](http://iir2023.isti.cnr.it/). 
 To cite our work or our translated dataset and model weights in your research, remember to cite us.
 ```bibtex
 @article{bacciu2023fauno,
