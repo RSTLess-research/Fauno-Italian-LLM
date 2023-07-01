@@ -76,16 +76,14 @@ cd demo/ && python3 app.py decapoda-research/llama-7b-hf andreabac3/Fauno-Italia
 ```
 
 # 📖 Cite our work
-
-To use our translated dataset and model weights in your research, remember to cite our work.
+We are delighted to announce that the Fauno paper has been accepted @ [IIR 2023](http://iir2023.isti.cnr.it/). 
+To cite our work or our translated dataset and model weights in your research, remember to cite us.
 ```bibtex
-@misc{fauno,
-  author = {Andrea Bacciu, Giovanni Trappolini, Emanuele Rodolà, Andrea Santilli, Fabrizio Silvestri},
-  title = {Fauno: The Italian Large Language Model that will leave you senza parole!},
-  year = {2023},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/andreabac3/Fauno-Italian-LLM}},
+@article{bacciu2023fauno,
+  title={Fauno: The Italian Large Language Model that will leave you senza parole!},
+  author={Bacciu, Andrea and Trappolini, Giovanni and Santilli, Andrea and Rodol{\`a}, Emanuele and Silvestri, Fabrizio},
+  journal={arXiv preprint arXiv:2306.14457},
+  year={2023}
 }
 ```
 
